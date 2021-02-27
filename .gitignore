@@ -5,3 +5,9 @@
 *.d
 
 README.md
+
+#ignore the Eclipse Project Files
+.autotools
+.cproject
+.project
+.settings/
